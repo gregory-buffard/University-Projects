@@ -1,0 +1,11 @@
+Pour chaque commande, expliquer en une phrase courte ce qu'elle fait.
+---------------------------------------------------------------------
+Réponse :
+pwd : Affiche le nom absolu du répertoire courant dans lequel vous vous trouvez.
+sleep 3 : Met le terminal en pause pendant 3 secondes.
+clear : Efface tout le contenu visible de l'écran de votre terminal.
+echo coin coin : Affiche le texte "coin coin" sur la sortie standard.
+ls -la : Énumère les fichiers du répertoire courant de manière détaillée et en incluant les fichiers cachés (option -a).
+sleep 2 : Met à nouveau le terminal en pause pendant 2 secondes.
+clear : Efface une dernière fois l'écran.
+---------------------------------------------------------------------

@@ -1,0 +1,15 @@
+Quelle est la différence entre les commandes (vous pouvez les entrer dans le terminal):
+ls
+ls -l
+ls -a
+ls -a -l
+ls -la
+ls -al
+
+---------------------------------------------------
+Réponse :
+ls : Énumère les fichiers d'un répertoire en ordre alphabétique, sur plusieurs colonnes, mais masque les fichiers cachés.
+ls -l : Affiche le contenu du répertoire sous forme de liste longue, avec un seul fichier par ligne. Cette option détaille les informations de chaque fichier : les permissions, l'identité du propriétaire, le groupe, la taille, la date et l'heure de la dernière modification, et le nom du fichier.
+ls -a : Énumère les fichiers du répertoire en incluant explicitement tous les fichiers cachés.
+ls -a -l / ls -la / ls -al : Ces trois commandes produisent très exactement le même résultat. Elles combinent les deux options précédentes pour afficher une liste détaillée de tous les fichiers du répertoire, y compris les fichiers cachés.
+---------------------------------------------------
