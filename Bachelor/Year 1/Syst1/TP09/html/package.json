@@ -1,0 +1,11 @@
+{
+  "name": "tp09",
+  "version": "1.0.0",
+  "main": "maPage.html",
+  "keywords": [],
+  "author": "Gregory STEHLIK BUFFARD",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "3.8.1"
+  }
+}

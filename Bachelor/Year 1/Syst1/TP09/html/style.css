@@ -1,0 +1,19 @@
+body {
+  background-color: green;
+}
+
+.react {
+  width: 10vh;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+.table td {
+  width: calc(100% / 3);
+  text-align: center;
+  border: 1px solid black;
+}
